@@ -1,21 +1,23 @@
-# ✅ Lista de Tarefas (To-Do List)
+# ✅ To-Do List
 
-Uma aplicação simples e responsiva de lista de tarefas, construída com HTML, CSS e JavaScript puro. Ideal para organizar o dia e praticar desenvolvimento frontend.
+A simple and responsive task list application built with **HTML**, **CSS**, and **Vanilla JavaScript**. Perfect for organizing daily tasks and practicing frontend development.
 
-## 🔧 Funcionalidades
+## 🔧 Features
 
-- Adicionar novas tarefas
-- Marcar tarefas como concluídas
-- Remover tarefas da lista
-- Interface moderna e responsiva
-- (Opcional) Guardar tarefas com localStorage
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Clean and responsive interface
+- Save tasks using localStorage (optional)
 
-## 📸 Captura de Ecrã
+## 📸 Screenshot
 
-![screenshot](link-da-imagem-ou-gif-aqui)
+![screenshot](link-to-image-or-gif-here) <!-- You can upload a preview image later -->
 
-## 🚀 Como usar
+## 🚀 How to Use
 
-1. Clona o repositório:
+1. Clone the repository:
+
    ```bash
-   git clone https://github.com/teu-utilizador/todo-list.git
+   git clone https://github.com/fernandocostamabundadev/to-do-list.git
+   cd to-do-list
