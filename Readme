@@ -1,0 +1,21 @@
+# ✅ Lista de Tarefas (To-Do List)
+
+Uma aplicação simples e responsiva de lista de tarefas, construída com HTML, CSS e JavaScript puro. Ideal para organizar o dia e praticar desenvolvimento frontend.
+
+## 🔧 Funcionalidades
+
+- Adicionar novas tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas da lista
+- Interface moderna e responsiva
+- (Opcional) Guardar tarefas com localStorage
+
+## 📸 Captura de Ecrã
+
+![screenshot](link-da-imagem-ou-gif-aqui)
+
+## 🚀 Como usar
+
+1. Clona o repositório:
+   ```bash
+   git clone https://github.com/teu-utilizador/todo-list.git
